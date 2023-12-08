@@ -1,0 +1,10 @@
+.link_container {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  color: aliceblue;
+}
+
+.link_container:hover {
+  color: #101010;
+}
